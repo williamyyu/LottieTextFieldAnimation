@@ -22,3 +22,5 @@ Feel free to fork this repository and submit pull requests with improvements or 
 ## Known Issues
 - LottieAnimation flashes when switching animations.
 
+## Credits
+- The Lottie animation used in this project was created by [LottieFiles](https://lottiefiles.com).  
